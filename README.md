@@ -1,1 +1,2 @@
-It is now connected to my github!
+It is now connected to my R project, so everything is linked!
+
